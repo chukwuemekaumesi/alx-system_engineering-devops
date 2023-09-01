@@ -1,3 +1,0 @@
-#!/bin/bash
-u="$USERNAME"
-echo "User name $u"
