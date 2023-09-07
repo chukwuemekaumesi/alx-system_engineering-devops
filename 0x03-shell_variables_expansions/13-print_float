@@ -1,2 +1,2 @@
 #!/bin/bash
-print NUM="%2.f\n" 
+print "%2.f\n" $NUM
